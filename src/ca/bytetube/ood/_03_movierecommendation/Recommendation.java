@@ -1,6 +1,5 @@
 package ca.bytetube.ood._03_movierecommendation;
 
-import java.util.List;
 import java.util.Map;
 
 public class Recommendation {
