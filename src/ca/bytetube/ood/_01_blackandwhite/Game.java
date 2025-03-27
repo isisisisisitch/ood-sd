@@ -1,4 +1,4 @@
-package ca.bytetube.ood._01_backandwhite;
+package ca.bytetube.ood._01_blackandwhite;
 
 import java.util.HashMap;
 import java.util.Map;
